@@ -20,7 +20,7 @@
 ---
 #### Страница поста:
 
-`url = "/posts/<post_id>"`
+`url = "/post/<post_id>"`
 
 ![image](https://i120.fastpic.org/big/2022/0612/d5/e700983b6b1e827b68d819aee401f6d5.png?md5=MWusAOagCYjvOYX93o3TmQ&expires=1655020800)
 
